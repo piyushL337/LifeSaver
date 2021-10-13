@@ -1,6 +1,6 @@
-let apiKey = "16ac336d9f83448583f2e7142475863b";
+let apiKey = "cf50991ed60447479fbc637a21e15425";
 let url =
-  "https://newsapi.org/v2/top-headlines?category=health&apiKey=" + apiKey;
+  "https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=" + apiKey;
 let Init = {
   method: "Get",
   headers: {
