@@ -1,5 +1,5 @@
 // api url
-const url = "http://api.mediastack.com/v1/news?access_key=53401c2ce96d5ab09bd48acc762335f7&countries=in&category=health";
+const api_url = "http://api.mediastack.com/v1/news?access_key=53401c2ce96d5ab09bd48acc762335f7&countries=in&category=health";
   
 // Defining async function
 async function getapi(url) {
