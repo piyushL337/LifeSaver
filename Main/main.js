@@ -43,5 +43,5 @@ function show(data) {
       </div>`;;
     }
     // Setting innerHTML as tab variable
-    document.getElementById("employees").innerHTML = tab;
+    document.getElementsByClassName("news").innerHTML = tab;
 }
